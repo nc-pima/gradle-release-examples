@@ -1,5 +1,6 @@
 # single-project example
 
+HUJ
 This is a simple example on how a single project could look like and how the gradle-release plugin is configured.
 
 ## Usage
@@ -24,3 +25,5 @@ $ gradlew.bat release
 
 If you have an idea which feature of the gradle-release plugin we could show here,
 you are welcome to submit a pull request.
+
+WUJ
